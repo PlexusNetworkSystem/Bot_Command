@@ -1,1 +1,1 @@
-#commands
+echo alfa
